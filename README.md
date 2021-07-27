@@ -2,6 +2,6 @@
 
 + Yet Another .Net Dabbler
 + Trying Java/Kotlin
-+ Plan to learn web front-end
++ Plan to be full-stack engineer
 
 ![](https://github-readme-stats.vercel.app/api?username=AHpxChina)
