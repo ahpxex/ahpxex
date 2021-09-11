@@ -1,7 +1,9 @@
-### Welcome to AHpx's profile
+# AHpx
 
-+ Yet Another .Net Dabbler
-+ Trying Java/Kotlin
-+ Intend to be full-stack engineer
++ ## DABBLER
++ ## C#
++ ## KOTLIN
++ ## JAVA(SYNTAX)
 
+## 
 ![](https://github-readme-stats.vercel.app/api?username=SinoAHpx)
