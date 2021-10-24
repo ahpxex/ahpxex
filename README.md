@@ -2,6 +2,9 @@
 
 Yet another programming kid here.
 
+email: AHpx@yandex.com
+telegram: [AHpxEx](https://t.me/AHpxEx)
+
 ## Summary
 
 + DABBLER
