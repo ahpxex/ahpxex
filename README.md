@@ -2,12 +2,18 @@
 
 Yet another programming kid here.
 
-email: AHpx@yandex.com
-telegram: [AHpxEx](https://t.me/AHpxEx)
+Open-source advocate.
 
 ## Summary
 
 + DABBLER
+
+
+## Contact
+
+Email: AHpx@yandex.com
+
+Telegram: [AHpxEx](https://t.me/AHpxEx)
 
 ## Stack
 
