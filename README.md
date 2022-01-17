@@ -1,3 +1,5 @@
+![top banner](top.svg)
+
 # SinoAHpx
 
 Yet another programming kid here.
