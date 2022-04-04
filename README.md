@@ -19,7 +19,7 @@ Telegram: [AHpxEx](https://t.me/AHpxEx)
 Sort by proficiency.
 
 + C#
-+ + Dart
++ Dart
 + Kotlin
 
 
