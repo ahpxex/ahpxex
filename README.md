@@ -2,13 +2,11 @@
 
 # SinoAHpx
 
-Yet another programming kid here.
-
-Open-source advocate.
+Yet another coding dabbler.
 
 ## Summary
 
-+ DABBLER
++ Dabbler
 
 
 ## Contact
@@ -20,8 +18,7 @@ Telegram: [AHpxEx](https://t.me/AHpxEx)
 ## Stack
 
 + C#
-+ KOTLIN
-+ JAVA(SYNTAX)
++ Kotlin
++ Dart
 
-## 
 ![](https://github-readme-stats.vercel.app/api?username=SinoAHpx)
