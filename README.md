@@ -1,11 +1,12 @@
 # SinoAHpx
 
-Yet another coding dabbler based in Yunnan, dealing repetition sidestep between lying flat / struggling, sometimes a sentimental guy.
+Yet another coding dabbler, dealing repetition sidestep between lying flat / struggling, sometimes a sentimental guy.
 
 ## Summary
 
 + Dabbler
 + High school student
++ FOSS evangelist
 
 ## Contact me
 
