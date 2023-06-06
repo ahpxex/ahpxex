@@ -17,9 +17,12 @@ Telegram: [AHpxEx](https://t.me/AHpxEx)
 ## Donate
 
 Kofi: [SinoAHpx](https://ko-fi.com/sinoahpx)
+
 爱发电: [AHpx](http://afdian.net/a/SinoAHpx)
-BTC: 3CVuCwLGmetwvtTqHzTetf97vw2kg218bY
-ETH: 0x4001e5beef9e6ed864767b3c786ee8a777709bb1
+
+BTC: `3CVuCwLGmetwvtTqHzTetf97vw2kg218bY`
+
+ETH: `0x4001e5beef9e6ed864767b3c786ee8a777709bb1`
 
 ## Stack
 
