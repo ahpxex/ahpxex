@@ -1,6 +1,7 @@
 # SinoAHpx
 
-Yet another coding dabbler, dealing repetition sidestep between lying flat / struggling, sometimes a sentimental guy. Based in Yunnan, China, a high school senior currently.
+- Sociology student at [UCASS](https://www.ucass.edu.cn/en/About/UCASS_at_a_Glance.htm). 
+- A .NET developer currently, heading for full-stack enginer.
 
 ## Contact me
 
