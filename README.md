@@ -1,4 +1,4 @@
-# SinoAHpx
+# 破晓/AHpx
 
 - Sociology student at [UCASS](https://www.ucass.edu.cn/en/About/UCASS_at_a_Glance.htm). 
 - A .NET developer currently, heading for full-stack enginer.
