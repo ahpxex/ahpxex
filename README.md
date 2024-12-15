@@ -1,7 +1,8 @@
 # 破晓/AHpx
 
-- Sociology student at [UCASS](https://www.ucass.edu.cn/en/About/UCASS_at_a_Glance.htm). 
-- A .NET developer currently, heading for full-stack enginer.
+- Sociology undergraduate at [UCASS](https://www.ucass.edu.cn/en/About/UCASS_at_a_Glance.htm). 
+- .NET/TypeScript/Python
+- Avalonia/React/FastAPI
 
 ## Contact me
 
