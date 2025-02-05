@@ -1,6 +1,6 @@
 # 破晓/AHpx
 
-- Sociology undergraduate at [UCASS](https://www.ucass.edu.cn/en/About/UCASS_at_a_Glance.htm). 
+- Sociology undergraduate at [UCASS](https://www.ucass.edu.cn/en/About/UCASS_at_a_Glance.htm), programming remains a **hobby**, but open-source spirit lasting.
 - .NET/TypeScript/Python
 - Avalonia/React/FastAPI
 
