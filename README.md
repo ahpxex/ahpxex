@@ -1,5 +1,7 @@
 # AHpx / Shawn Fan
 
+[![Stars Earned](https://img.shields.io/github/stars/ahpxex?affiliations=OWNER&style=for-the-badge&label=Stars%20Earned&logo=github)](https://github.com/ahpxex?tab=repositories)
+
 ## Connection
 
 Connection is highly welcomed by:
