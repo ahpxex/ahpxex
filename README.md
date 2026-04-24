@@ -8,7 +8,7 @@ Connection is highly welcomed by:
 
 - [My website](https://ahpx.me) 
 - My WeChat: `YWhwb3hpYW8=` (base64 encoded)
-- My Email: `ahpx[@]yandex.com`
+- My Email: `YWhweEB5YW5kZXguY29t` (base64 encoded)
 
 ## AHpx's manual
 
