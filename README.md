@@ -15,6 +15,6 @@
 ## Elsewhere
 
 - [AHpx.me](https://ahpx.me)
-- WeChat: `YWhwb3hpYW8=` (base64 encoded)
-- Email: `YWhweEB5YW5kZXguY29t` (base64 encoded)
+- WeChat: `YWhwb3hpYW8=`
+- Email: `YWhweEB5YW5kZXguY29t`
 
