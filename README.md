@@ -1,21 +1,20 @@
 <a href="https://ahpx.me"><img src="bliss-banner.svg" width="100%" alt="AHpx" /></a>
 
-# AHpx / Shawn Fan
+## Who
 
-[![Stars Earned](https://img.shields.io/github/stars/ahpxex?affiliations=OWNER&style=for-the-badge&label=Stars%20Earned&logo=github)](https://github.com/ahpxex?tab=repositories)
+- Never liked single label (have too many to fit one).
+- Builder, exploring and learning the world.
+- Was a sociology undergrad.
 
-## Connection
+## Method
 
-Connection is highly welcomed by:
+- TypeScript · C# · Python — Next.js, React, FastAPI, TanStack Start; PostgreSQL / any SQL / Supabase / Neon + **Anything** needed.
+- Networked, associative thinking — connecting across domains, not running in straight lines.
+- System first — reshape the problem into a pipeline before diving into the work.
 
-- [My website](https://ahpx.me) 
-- My WeChat: `YWhwb3hpYW8=` (base64 encoded)
-- My Email: `YWhweEB5YW5kZXguY29t` (base64 encoded)
+## Elsewhere
 
-## AHpx's manual
+- [AHpx.me](https://ahpx.me)
+- WeChat: `YWhwb3hpYW8=` (base64 encoded)
+- Email: `YWhweEB5YW5kZXguY29t` (base64 encoded)
 
-- Familiar with multiple programming languages, including `TypeScript`, `C#` and `Python`
-- Building full-stack web applications with `Next.Js`, `React + FastAPI + TanStack Start` and much more. I'm enthusiastic about exporing new techs
-- Dabbling with databases like `PostgreSQL`, `SQLite` and (superbase, neon stuff)
-- Deploy with CI/CD pipelines and automated tests (which I often neglect)
-- Shipping a product from scratch
